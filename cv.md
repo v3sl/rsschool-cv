@@ -27,4 +27,4 @@ function gcd(firstNumber, secondNumber) {
 #### Education 
 - University: BSU, FAMCS, 1 course
 #### English
-A2 (trainig.by)
+A2 (training.by)
