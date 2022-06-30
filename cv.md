@@ -24,3 +24,7 @@ function gcd(firstNumber, secondNumber) {
 		return gcd (secondNumber, firstNumber % secondNumber);
 }
 ```
+#### Education 
+- University: BSU, FAMCS, 1 course
+#### English
+A2 (trainig.by)
