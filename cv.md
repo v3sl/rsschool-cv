@@ -15,3 +15,12 @@ I am student with a lot of good soft skils such as responsibility, sociability a
 - C++
 - Git
 - Figma
+#### Code Example
+```
+function gcd(firstNumber, secondNumber) {
+  if (secondNumber === 0)
+		return firstNumber;
+	else
+		return gcd (secondNumber, firstNumber % secondNumber);
+}
+```
